@@ -18,7 +18,7 @@
 
 ### Play Store
 
-[▶️ jundroidx 앱 보러가기](https://play.google.com/store/apps/developer?id=jundroidx&hl=ko)
+[🚀 jundroidx 앱 보러가기](https://play.google.com/store/apps/developer?id=jundroidx&hl=ko)
 
 ---
 
