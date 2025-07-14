@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20I'm%20Daengjun!&fontSize=35)
 
-## 👋 Hello! I'm Junhyeok
+## 👋 Hello! I'm Daengjun
 
 안녕하세요. Android 개발 경력 3년차 개발자입니다.  
 코틀린과 자바 기반의 실용적이고 안정적인 앱 개발을 지향합니다.
