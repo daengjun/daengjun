@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
@@ -16,19 +16,19 @@
 
 ---
 
-### ▶️ Play Store
+### Play Store
 
-[jundroidx 앱 보러가기](https://play.google.com/store/apps/developer?id=jundroidx&hl=ko)
+[▶️ jundroidx 앱 보러가기](https://play.google.com/store/apps/developer?id=jundroidx&hl=ko)
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 ![daengjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=daengjun&show_icons=true&theme=default&hide_title=true)
 
 ---
 
-### 📫 Contact
+### Contact
 📧 brokenhyeok@gmail.com
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
