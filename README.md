@@ -15,4 +15,4 @@
 ## Contact
 📧 brokenhyeok@gmail.com
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:6A5ACD,100:00CED1&height=150)
