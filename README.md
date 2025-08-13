@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20I'm%20Daengjun!&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20I'm%20JunHyeok!&fontSize=35)
 
 ## 👋 Hello! I'm JunHyeok
 
