@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JunHyeok GitHub!&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00CED1&height=200&section=header&text=JunHyeok%20GitHub!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 
 ## 👋 Hello! I'm JunHyeok
 
