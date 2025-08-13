@@ -22,12 +22,6 @@
 
 ---
 
-### GitHub Stats
-
-![daengjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=daengjun&show_icons=true&theme=default&hide_title=true)
-
----
-
 ### Contact
 📧 brokenhyeok@gmail.com
 
