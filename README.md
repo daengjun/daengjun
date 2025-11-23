@@ -13,8 +13,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## Contact
-https://github.com/daengjun
-brokenhyeok@gmail.com
+https://github.com/daengjun  
+brokenhyeok@gmail.com  
 https://play.google.com/store/apps/developer?id=jundroidx
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:6A5ACD,100:00CED1&height=150)
