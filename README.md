@@ -13,6 +13,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## Contact
-brokenhyeok@gmail.com 
+![Email](https://img.shields.io/badge/Email-ffffff?style=flat&logo=gmail&logoColor=D14836) brokenhyeok@gmail.com 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:6A5ACD,100:00CED1&height=150)
