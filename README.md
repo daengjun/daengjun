@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00CED1&height=200&section=header&text=JunHyeok%20GitHub!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 
-## 👋 Hello! I'm JunHyeok
-
-안녕하세요 Android 개발자입니다.  
-코틀린과 자바 기반의 실용적이고 안정적인 앱 개발을 지향합니다.
-
 ## Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
